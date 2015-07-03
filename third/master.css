@@ -1,5 +1,6 @@
-body {
+html, body {
     margin: 0px;
+    padding: 0px;
 }
 header {
     height: 40px;
@@ -7,14 +8,46 @@ header {
     color: white;
     margin: 0px auto;
     font-family:fantasy;
+    padding: 10px;
 }
 
 span {
     margin-left: 30px;
 }
 
+.littlebox {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+}
+
 .headerdiv {
     line-height: 45px;
+}
+
+p {
+    padding: 20px;
+}
+
+.row {
+    height: 17%;
+    min-height: 50px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
 }
 
 .headerdiv, .container {
