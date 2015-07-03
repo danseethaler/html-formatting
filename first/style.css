@@ -1,0 +1,24 @@
+
+body{
+    background-color: grey;
+    margin: 0;
+}
+
+.container{
+    margin: 0 auto;
+    height: 200px;
+    background-color: Aquamarine;
+}
+
+.spanning{
+    height: 500px;
+    background-color: green;
+}
+
+.middle{
+    background-color: Chocolate;
+    margin-top: 2000px;
+    width: 75%;
+    height: 85%;
+    margin: auto;
+}
